@@ -1,7 +1,7 @@
 # streaming-platform-data-analysis
 
 
-In this project, there are four tabular datasets (Amazon Prim, Disney+, Hulu, Netflix) consisting of information of movies or TV shows available on these top-tier video streaming platforms. We first do data preprocessing like column convertion to clean the original data. Then, we do an overall analysis of the movies and TV shows from type, title, rating, country, release year and genres and understand the trends by visualization. Then, we analysis these four platforms from type, rating, duration by visualization and compare them with each other.
+In this project, there are four tabular datasets (Amazon Prim, Disney+, Hulu, Netflix) consisting of information of movies or TV shows available on these top-tier video streaming platforms. We first do data preprocessing like column convertion to clean the original data. Then, we do an overall analysis of the movies and TV shows from type, title, rating, country, release year and genres and understand the trends by visualization. Then, we analysis these four platforms from type, rating, duration by visualization and compare them with each other.
 
 
 
